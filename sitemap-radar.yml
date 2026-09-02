@@ -1,0 +1,29 @@
+name: Sitemap Radar
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'   # elke maandag 06:00 UTC (vóór de Claude-routine om 07:00 UTC)
+  workflow_dispatch: {}    # handmatig te starten via de Actions-tab
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - run: python scripts/sitemap_diff.py
+
+      - name: Commit results
+        run: |
+          git config user.name "sitemap-radar-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add snapshots reports
+          git diff --quiet --cached || git commit -m "Weekly sitemap snapshot $(date -u +%F)"
+          git push
