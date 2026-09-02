@@ -1,5 +1,5 @@
 # Synchroteam — sitemap diff
 
-Bijgewerkt: 2026-09-02T08:38:40.395930+00:00
+Bijgewerkt: 2026-09-02T08:58:38.623021+00:00
 
-**BASELINE** — 57 URLs, nog geen vorige meting om mee te vergelijken.
+NEW: 0  |  REMOVED: 0  |  LASTMOD_CHANGED: 0 (zwak signaal)  |  UNCHANGED: 57

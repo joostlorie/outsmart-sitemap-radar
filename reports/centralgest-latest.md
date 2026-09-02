@@ -1,5 +1,5 @@
 # CentralGest — sitemap diff
 
-Bijgewerkt: 2026-09-02T08:38:39.745194+00:00
+Bijgewerkt: 2026-09-02T08:58:37.999897+00:00
 
-**BASELINE** — 279 URLs, nog geen vorige meting om mee te vergelijken.
+NEW: 0  |  REMOVED: 0  |  LASTMOD_CHANGED: 0 (zwak signaal)  |  UNCHANGED: 279
