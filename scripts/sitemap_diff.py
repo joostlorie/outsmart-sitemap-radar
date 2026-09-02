@@ -21,9 +21,19 @@ MAX_SITEMAPS = 50
 MAX_URLS = 20000
 
 COMPETITORS = [
+    # PT
     {"name": "Infraspeak", "slug": "infraspeak-pt", "sitemap_url": "https://infraspeak.com/sitemap_pt_pt.xml"},
     {"name": "CentralGest", "slug": "centralgest", "sitemap_url": "https://www.centralgest.com/sitemap.xml"},
     {"name": "Synchroteam", "slug": "synchroteam", "sitemap_url": "https://www.synchroteam.com/synchroteam-com-sitemap.xml"},
+    # NL
+    {"name": "Bouwportaal", "slug": "bouwportaal", "sitemap_url": "https://bouwportaal.nl/sitemap.xml"},
+    {"name": "FieldBuddy", "slug": "fieldbuddy", "sitemap_url": "https://fieldbuddy.com/sitemap_index.xml"},
+    {"name": "Hero Software", "slug": "hero-software", "sitemap_url": "https://hero-software.nl/sitemaps-3-sitemap.xml"},
+    {"name": "Plancraft", "slug": "plancraft", "sitemap_url": "https://plancraft.com/sitemap.xml"},
+    {"name": "Robaws", "slug": "robaws", "sitemap_url": "https://robaws.com/sitemap.xml"},
+    {"name": "Syntess", "slug": "syntess", "sitemap_url": "https://www.syntess.nl/sitemap_index.xml"},
+    {"name": "Teamleader", "slug": "teamleader", "sitemap_url": "https://www.teamleader.eu/nl/sitemaps-1-sitemap.xml"},
+    {"name": "vPlan", "slug": "vplan", "sitemap_url": "https://vplan.com/sitemap_index.xml"},
 ]
 
 
