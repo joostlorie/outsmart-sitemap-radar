@@ -1,5 +1,5 @@
 # Hero Software — sitemap diff
 
-Bijgewerkt: 2026-09-02T08:58:48.888812+00:00
+Bijgewerkt: 2026-09-07T06:06:39.049307+00:00
 
-**BASELINE** — 128 URLs, nog geen vorige meting om mee te vergelijken.
+**FOUT**: geen URLs opgehaald — sitemap onbereikbaar of leeg deze run. Vorige snapshot NIET overschreven.

@@ -1,8 +1,8 @@
 {
   "source_url": "https://www.syntess.nl/sitemap_index.xml",
-  "url_count": 46,
+  "url_count": 47,
   "urls": {
-    "https://www.syntess.nl/": "2026-07-21T09:12:44+00:00",
+    "https://www.syntess.nl/": "2026-09-03T10:13:54+00:00",
     "https://www.syntess.nl/support/": "2026-06-30T11:09:28+00:00",
     "https://www.syntess.nl/oplossingen/syntess-atrium/atrium-enterprise/": "2026-07-06T09:47:42+00:00",
     "https://www.syntess.nl/oplossingen/atrium-cloud/": "2026-07-06T10:05:19+00:00",
@@ -43,10 +43,11 @@
     "https://www.syntess.nl/over-syntess/ons-esg-beleid/": "2026-08-20T07:02:17+00:00",
     "https://www.syntess.nl/functionaliteiten/field-management/": "2026-08-31T09:53:57+00:00",
     "https://www.syntess.nl/over-syntess/nieuws-events/": "2026-08-31T10:19:09+00:00",
-    "https://www.syntess.nl/nieuws/syntess-software-wordt-onderdeel-van-aceve/": "2026-07-09T10:06:58+00:00",
-    "https://www.syntess.nl/nieuws/syntess-en-bisharp-sluiten-exclusief-partnership-voor-bi-en-ai-rapportage/": "2026-07-09T12:04:24+00:00",
     "https://www.syntess.nl/nieuws/syntess-aanwezig-op-installtech-bouw-2027/": "2026-07-09T12:05:58+00:00",
     "https://www.syntess.nl/nieuws/houd-jouw-bedrijf-in-conditie-met-de-zomeractie-consultancy/": "2026-08-31T10:05:06+00:00",
-    "https://www.syntess.nl/nieuws/nieuwe-stijl-ander-gezicht-onveranderd-de-bedrijfssoftware-voor-de-installateur/": "2026-08-31T11:23:15+00:00"
+    "https://www.syntess.nl/nieuws/nieuwe-stijl-ander-gezicht-onveranderd-de-bedrijfssoftware-voor-de-installateur/": "2026-08-31T11:23:15+00:00",
+    "https://www.syntess.nl/nieuws/aceve-nederland-adriaan-kom-managing-director/": "2026-09-03T07:12:30+00:00",
+    "https://www.syntess.nl/nieuws/syntess-software-wordt-onderdeel-van-aceve/": "2026-09-03T07:16:33+00:00",
+    "https://www.syntess.nl/nieuws/syntess-en-bisharp-sluiten-exclusief-partnership-voor-bi-en-ai-rapportage/": "2026-09-03T10:18:36+00:00"
   }
 }

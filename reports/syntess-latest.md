@@ -1,5 +1,8 @@
 # Syntess — sitemap diff
 
-Bijgewerkt: 2026-09-02T08:58:54.224835+00:00
+Bijgewerkt: 2026-09-07T06:06:44.640148+00:00
 
-**BASELINE** — 46 URLs, nog geen vorige meting om mee te vergelijken.
+NEW: 1  |  REMOVED: 0  |  LASTMOD_CHANGED: 3 (zwak signaal)  |  UNCHANGED: 43
+
+## /nieuws/  (+1 / -0)
+- NEW: https://www.syntess.nl/nieuws/aceve-nederland-adriaan-kom-managing-director/
