@@ -1,20 +1,14 @@
 # Teamleader — sitemap diff
 
-Bijgewerkt: 2026-09-07T06:07:11.546350+00:00
+Bijgewerkt: 2026-09-14T06:07:15.729630+00:00
 
-NEW: 13  |  REMOVED: 0  |  LASTMOD_CHANGED: 1 (zwak signaal)  |  UNCHANGED: 660
+NEW: 6  |  REMOVED: 1  |  LASTMOD_CHANGED: 18 (zwak signaal)  |  UNCHANGED: 655
 
-## /nl/  (+13 / -0)
-- NEW: https://www.teamleader.eu/nl/partner-directory/crmprofs
-- NEW: https://www.teamleader.eu/nl/partner-directory/easydex
-- NEW: https://www.teamleader.eu/nl/partner-directory/how2wow
-- NEW: https://www.teamleader.eu/nl/partner-directory/it-aanspreekpunt
-- NEW: https://www.teamleader.eu/nl/partner-directory/niners
-- NEW: https://www.teamleader.eu/nl/partner-directory/operative
-- NEW: https://www.teamleader.eu/nl/partner-directory/triplesupport
-- NEW: https://www.teamleader.eu/nl/partner-directory/tripletribe
-- NEW: https://www.teamleader.eu/nl/partner-directory/viasteef
-- NEW: https://www.teamleader.eu/nl/partner-directory/webfresh
-- NEW: https://www.teamleader.eu/nl/partner-directory/webgrade
-- NEW: https://www.teamleader.eu/nl/partner-directory/zeelvis-it
-- NEW: https://www.teamleader.eu/nl/partner-directory/zeker-susan
+## /nl/  (+6 / -1)
+- NEW: https://www.teamleader.eu/nl/__home__/functionaliteiten
+- NEW: https://www.teamleader.eu/nl/agency-life/episodes/ik-wil-helemaal-geen-pr-man-meer-zijn-is-jos-govaart-klaar-met-agency-life
+- NEW: https://www.teamleader.eu/nl/blog/graham-hulsebos-met-focus-ai
+- NEW: https://www.teamleader.eu/nl/blog/groeien-begin-eerst-maar-met-schrappen
+- NEW: https://www.teamleader.eu/nl/blog/robin-van-putten-met-teamleader-focus-ai
+- NEW: https://www.teamleader.eu/nl/blog/studio-brabo-van-losse-tools-naar-een-helder-overzicht-dankzij-teamleader-2
+- REMOVED: https://www.teamleader.eu/nl/orbit/functionaliteiten
