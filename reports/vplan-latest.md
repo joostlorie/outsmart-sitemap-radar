@@ -1,14 +1,15 @@
 # vPlan — sitemap diff
 
-Bijgewerkt: 2026-09-21T06:07:10.569792+00:00
+Bijgewerkt: 2026-09-28T06:07:23.573669+00:00
 
-NEW: 5  |  REMOVED: 0  |  LASTMOD_CHANGED: 0 (zwak signaal)  |  UNCHANGED: 826
+NEW: 2  |  REMOVED: 4  |  LASTMOD_CHANGED: 0 (zwak signaal)  |  UNCHANGED: 827
 
-## /en/  (+3 / -0)
-- NEW: https://vplan.com/en/blog/inspiration/building-is-cheap-owning-isnt
-- NEW: https://vplan.com/en/blog/inspiration/managing-peak-workloads-for-accountancy-firms
-- NEW: https://vplan.com/en/compare-index-tmp
+## /en/  (+1 / -3)
+- NEW: https://vplan.com/en/blog/inspiration/software-for-marketing-agencies
+- REMOVED: https://vplan.com/en/app
+- REMOVED: https://vplan.com/en/compare-index-tmp
+- REMOVED: https://vplan.com/en/features/app
 
-## /nl/  (+2 / -0)
-- NEW: https://vplan.com/nl/blog/inspiratie/bouwen-is-goedkoop-bezitten-niet
-- NEW: https://vplan.com/nl/blog/inspiratie/grip-op-piekdrukte-voor-accountantskantoren
+## /nl/  (+1 / -1)
+- NEW: https://vplan.com/nl/blog/inspiratie/software-voor-marketingbureaus
+- REMOVED: https://vplan.com/nl/app
