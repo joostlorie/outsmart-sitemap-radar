@@ -1,12 +1,8 @@
 # Plancraft — sitemap diff
 
-Bijgewerkt: 2026-09-28T06:07:10.233834+00:00
+Bijgewerkt: 2026-10-05T06:10:59.243788+00:00
 
-NEW: 1  |  REMOVED: 2  |  LASTMOD_CHANGED: 110 (zwak signaal)  |  UNCHANGED: 635
-
-## /de-de/  (+1 / -1)
-- NEW: https://plancraft.com/de-de/plancraft-webinare/jahresplanung-2027-handwerksbetrieb
-- REMOVED: https://plancraft.com/de-de/partner/qonto
+NEW: 0  |  REMOVED: 1  |  LASTMOD_CHANGED: 21 (zwak signaal)  |  UNCHANGED: 724
 
 ## /de-at/  (+0 / -1)
-- REMOVED: https://plancraft.com/de-at/partner/qonto
+- REMOVED: https://plancraft.com/de-at/hero-vs-plancraft

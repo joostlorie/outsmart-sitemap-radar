@@ -1,5 +1,5 @@
 # FieldBuddy — sitemap diff
 
-Bijgewerkt: 2026-09-28T06:07:05.101700+00:00
+Bijgewerkt: 2026-10-05T06:10:53.011335+00:00
 
-NEW: 0  |  REMOVED: 0  |  LASTMOD_CHANGED: 24 (zwak signaal)  |  UNCHANGED: 337
+NEW: 0  |  REMOVED: 0  |  LASTMOD_CHANGED: 3 (zwak signaal)  |  UNCHANGED: 358
