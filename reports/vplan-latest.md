@@ -1,14 +1,15 @@
 # vPlan — sitemap diff
 
-Bijgewerkt: 2026-10-05T06:11:59.251378+00:00
+Bijgewerkt: 2026-10-12T13:59:17.974722+00:00
 
-NEW: 2  |  REMOVED: 3  |  LASTMOD_CHANGED: 0 (zwak signaal)  |  UNCHANGED: 826
+NEW: 4  |  REMOVED: 2  |  LASTMOD_CHANGED: 0 (zwak signaal)  |  UNCHANGED: 826
 
-## /nl/  (+1 / -2)
-- NEW: https://vplan.com/nl/blog/inspiratie/software-groenvoorziening
-- REMOVED: https://vplan.com/nl/demo
-- REMOVED: https://vplan.com/nl/probeer-gratis
+## /en/  (+2 / -1)
+- NEW: https://vplan.com/en/blog/inspiration/software-for-consultancy-firms
+- NEW: https://vplan.com/en/blog/product/backlog-settings-users
+- REMOVED: https://vplan.com/en/blog/inspiration/best-capacity-planning-software-2026
 
-## /en/  (+1 / -1)
-- NEW: https://vplan.com/en/blog/inspiration/grounds-maintenance-software
-- REMOVED: https://vplan.com/en/demo
+## /nl/  (+2 / -1)
+- NEW: https://vplan.com/nl/blog/inspiratie/software-voor-consultancybedrijven
+- NEW: https://vplan.com/nl/blog/product/instellingen-backlog-gebruikers
+- REMOVED: https://vplan.com/nl/blog/inspiratie/beste-software-capaciteitsplanning-2026
