@@ -1,15 +1,17 @@
 # vPlan — sitemap diff
 
-Bijgewerkt: 2026-10-12T13:59:17.974722+00:00
+Bijgewerkt: 2026-10-19T11:40:07.252326+00:00
 
-NEW: 4  |  REMOVED: 2  |  LASTMOD_CHANGED: 0 (zwak signaal)  |  UNCHANGED: 826
+NEW: 8  |  REMOVED: 0  |  LASTMOD_CHANGED: 0 (zwak signaal)  |  UNCHANGED: 830
 
-## /en/  (+2 / -1)
-- NEW: https://vplan.com/en/blog/inspiration/software-for-consultancy-firms
-- NEW: https://vplan.com/en/blog/product/backlog-settings-users
-- REMOVED: https://vplan.com/en/blog/inspiration/best-capacity-planning-software-2026
+## /en/  (+4 / -0)
+- NEW: https://vplan.com/en/blog/company/welcome-luuk
+- NEW: https://vplan.com/en/blog/inspiration/best-construction-planning-software-2026
+- NEW: https://vplan.com/en/blog/inspiration/capacity-forecasting-how-to-predict-future-capacity-and-workload
+- NEW: https://vplan.com/en/blog/product/public-holidays-work-faster-with-collections
 
-## /nl/  (+2 / -1)
-- NEW: https://vplan.com/nl/blog/inspiratie/software-voor-consultancybedrijven
-- NEW: https://vplan.com/nl/blog/product/instellingen-backlog-gebruikers
-- REMOVED: https://vplan.com/nl/blog/inspiratie/beste-software-capaciteitsplanning-2026
+## /nl/  (+4 / -0)
+- NEW: https://vplan.com/nl/blog/bedrijf/welkom-luuk
+- NEW: https://vplan.com/nl/blog/inspiratie/beste-bouwplanning-software-2026
+- NEW: https://vplan.com/nl/blog/inspiratie/capaciteitsforecast-zo-voorspel-je-toekomstige-capaciteit-en-werkdruk
+- NEW: https://vplan.com/nl/blog/product/feestdagen-sneller-werken-met-collecties
