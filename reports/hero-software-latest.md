@@ -1,8 +1,16 @@
 # Hero Software — sitemap diff
 
-Bijgewerkt: 2026-10-19T11:39:51.868445+00:00
+Bijgewerkt: 2026-10-26T11:56:59.500543+00:00
 
-NEW: 1  |  REMOVED: 0  |  LASTMOD_CHANGED: 9 (zwak signaal)  |  UNCHANGED: 119
+NEW: 0  |  REMOVED: 9  |  LASTMOD_CHANGED: 6 (zwak signaal)  |  UNCHANGED: 114
 
-## /blog/  (+1 / -0)
-- NEW: https://hero-software.nl/blog/ervaringsverhalen/op-set-met-micha-munt
+## /productupdates/  (+0 / -9)
+- REMOVED: https://hero-software.nl/productupdates/augustus-2025
+- REMOVED: https://hero-software.nl/productupdates/februari-maart-2025
+- REMOVED: https://hero-software.nl/productupdates/januari-2025
+- REMOVED: https://hero-software.nl/productupdates/juni-2025
+- REMOVED: https://hero-software.nl/productupdates/maart-2026
+- REMOVED: https://hero-software.nl/productupdates/mei-2025
+- REMOVED: https://hero-software.nl/productupdates/november-2025
+- REMOVED: https://hero-software.nl/productupdates/oktober-2025
+- REMOVED: https://hero-software.nl/productupdates/september-2025

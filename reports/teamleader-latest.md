@@ -1,15 +1,12 @@
 # Teamleader — sitemap diff
 
-Bijgewerkt: 2026-10-19T11:40:05.118435+00:00
+Bijgewerkt: 2026-10-26T11:57:43.037213+00:00
 
-NEW: 7  |  REMOVED: 1  |  LASTMOD_CHANGED: 11 (zwak signaal)  |  UNCHANGED: 674
+NEW: 5  |  REMOVED: 0  |  LASTMOD_CHANGED: 4 (zwak signaal)  |  UNCHANGED: 688
 
-## /nl/  (+7 / -1)
-- NEW: https://www.teamleader.eu/nl/blog/ai-winst-voor-het-mkb
-- NEW: https://www.teamleader.eu/nl/webinars/ai-in-je-mkb-waar-begin-je-zonder-it-team
-- NEW: https://www.teamleader.eu/nl/webinars/de-kloof-tussen-ai-geloof-en-realiteit-binnen-het-nederlandse-mkb
-- NEW: https://www.teamleader.eu/nl/webinars/elk-project-elke-fase-altijd-in-beeld
-- NEW: https://www.teamleader.eu/nl/webinars/never-lose-a-customer-again-with-focus-ai
-- NEW: https://www.teamleader.eu/nl/webinars/verlies-geen-klant-meer-uit-het-oog-met-focus-ai
-- NEW: https://www.teamleader.eu/nl/webinars/waarom-ai-jouw-concurrent-aanraadt-en-jou-niet
-- REMOVED: https://www.teamleader.eu/nl/blog/ai-winst-voor-mkbs
+## /nl/  (+5 / -0)
+- NEW: https://www.teamleader.eu/nl/agency-life/episodes/we-zijn-geen-levens-aan-het-redden-alonzo-euphrosina-relativeert-agency-life
+- NEW: https://www.teamleader.eu/nl/blog/ill-show-you-mine-if-you-show-me-yours
+- NEW: https://www.teamleader.eu/nl/blog/offertes-maken-als-aannemer
+- NEW: https://www.teamleader.eu/nl/blog/ronald-van-der-gaag-focus-ai
+- NEW: https://www.teamleader.eu/nl/blog/teamleader-orbit-mcp
