@@ -1,6 +1,6 @@
 {
   "source_url": "https://vplan.com/sitemap_index.xml",
-  "url_count": 832,
+  "url_count": 834,
   "urls": {
     "https://vplan.com/nl": null,
     "https://vplan.com/nl/bedankt": null,
@@ -318,6 +318,7 @@
     "https://vplan.com/nl/blog/product/filter-in-lijstweergave": null,
     "https://vplan.com/nl/blog/product/flexibele-kolommen": null,
     "https://vplan.com/nl/blog/product/formule-velden-en-meer": null,
+    "https://vplan.com/nl/blog/product/geavanceerd-filteren-en-meer": null,
     "https://vplan.com/nl/blog/product/geavanceerd-zoeken": null,
     "https://vplan.com/nl/blog/product/goedkeuringsproces-tijdregistratie": null,
     "https://vplan.com/nl/blog/product/implementatie-afgerond": null,
@@ -713,6 +714,7 @@
     "https://vplan.com/en/blog/press/new-server": null,
     "https://vplan.com/en/blog/product/3-new-functionalities": null,
     "https://vplan.com/en/blog/product/10-handy-tips": null,
+    "https://vplan.com/en/blog/product/advanced-filtering-and-more": null,
     "https://vplan.com/en/blog/product/advanced-search-helps-you-find-the-right-one-faster": null,
     "https://vplan.com/en/blog/product/analyze": null,
     "https://vplan.com/en/blog/product/automatically-checklists-cards": null,

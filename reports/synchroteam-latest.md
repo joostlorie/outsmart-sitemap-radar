@@ -1,5 +1,5 @@
 # Synchroteam — sitemap diff
 
-Bijgewerkt: 2026-10-26T11:56:24.903989+00:00
+Bijgewerkt: 2026-11-02T14:18:44.523209+00:00
 
 NEW: 0  |  REMOVED: 0  |  LASTMOD_CHANGED: 0 (zwak signaal)  |  UNCHANGED: 57

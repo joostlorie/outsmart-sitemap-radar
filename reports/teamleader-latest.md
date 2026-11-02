@@ -1,12 +1,13 @@
 # Teamleader — sitemap diff
 
-Bijgewerkt: 2026-10-26T11:57:43.037213+00:00
+Bijgewerkt: 2026-11-02T14:19:40.434789+00:00
 
-NEW: 5  |  REMOVED: 0  |  LASTMOD_CHANGED: 4 (zwak signaal)  |  UNCHANGED: 688
+NEW: 6  |  REMOVED: 0  |  LASTMOD_CHANGED: 5 (zwak signaal)  |  UNCHANGED: 692
 
-## /nl/  (+5 / -0)
-- NEW: https://www.teamleader.eu/nl/agency-life/episodes/we-zijn-geen-levens-aan-het-redden-alonzo-euphrosina-relativeert-agency-life
-- NEW: https://www.teamleader.eu/nl/blog/ill-show-you-mine-if-you-show-me-yours
-- NEW: https://www.teamleader.eu/nl/blog/offertes-maken-als-aannemer
-- NEW: https://www.teamleader.eu/nl/blog/ronald-van-der-gaag-focus-ai
-- NEW: https://www.teamleader.eu/nl/blog/teamleader-orbit-mcp
+## /nl/  (+6 / -0)
+- NEW: https://www.teamleader.eu/nl/agency-life/episodes/claude-heeft-alles-verpest-voor-iedereen-waarom-betalen-klanten-tim-renders-dan-nog
+- NEW: https://www.teamleader.eu/nl/blog/bouwplanning-maken
+- NEW: https://www.teamleader.eu/nl/blog/rentabiliteit-per-werf
+- NEW: https://www.teamleader.eu/nl/blog/uurtarief-berekenen-als-bouwvakker
+- NEW: https://www.teamleader.eu/nl/blog/waarom-ai-jouw-concurrent-aanraadt-en-jou-niet
+- NEW: https://www.teamleader.eu/nl/blog/yes-devs
