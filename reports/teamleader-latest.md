@@ -1,13 +1,15 @@
 # Teamleader — sitemap diff
 
-Bijgewerkt: 2026-11-02T14:19:40.434789+00:00
+Bijgewerkt: 2026-11-09T14:46:33.817247+00:00
 
-NEW: 6  |  REMOVED: 0  |  LASTMOD_CHANGED: 5 (zwak signaal)  |  UNCHANGED: 692
+NEW: 7  |  REMOVED: 1  |  LASTMOD_CHANGED: 8 (zwak signaal)  |  UNCHANGED: 694
 
-## /nl/  (+6 / -0)
-- NEW: https://www.teamleader.eu/nl/agency-life/episodes/claude-heeft-alles-verpest-voor-iedereen-waarom-betalen-klanten-tim-renders-dan-nog
-- NEW: https://www.teamleader.eu/nl/blog/bouwplanning-maken
-- NEW: https://www.teamleader.eu/nl/blog/rentabiliteit-per-werf
-- NEW: https://www.teamleader.eu/nl/blog/uurtarief-berekenen-als-bouwvakker
-- NEW: https://www.teamleader.eu/nl/blog/waarom-ai-jouw-concurrent-aanraadt-en-jou-niet
-- NEW: https://www.teamleader.eu/nl/blog/yes-devs
+## /nl/  (+7 / -1)
+- NEW: https://www.teamleader.eu/nl/blog/change-management-zo-zorg-je-dat-veranderingen-in-je-bedrijf-wel-werken
+- NEW: https://www.teamleader.eu/nl/blog/elk-bureau-claimt-hetzelfde-zo-val-je-wel-op-met-sterke-agency-branding
+- NEW: https://www.teamleader.eu/nl/blog/factuur-berekenen
+- NEW: https://www.teamleader.eu/nl/blog/productiviteit-verhogen-stop-met-schakelen-tussen-te-veel-tools
+- NEW: https://www.teamleader.eu/nl/blog/waarom-niche-agencies-hogere-tarieven-vragen-en-hoe-value-based-pricing-dat-mogelijk-maakt
+- NEW: https://www.teamleader.eu/nl/blog/we-praten-te-veel-over-ai-en-te-weinig-over-mensen
+- NEW: https://www.teamleader.eu/nl/blog/werken-met-onderaannemers-facturatie-en-planning-zonder-gedoe
+- REMOVED: https://www.teamleader.eu/nl/blog/facturen-berekenen

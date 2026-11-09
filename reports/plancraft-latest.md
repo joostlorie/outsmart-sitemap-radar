@@ -1,8 +1,11 @@
 # Plancraft — sitemap diff
 
-Bijgewerkt: 2026-11-02T14:19:04.825158+00:00
+Bijgewerkt: 2026-11-09T14:46:20.432416+00:00
 
-NEW: 1  |  REMOVED: 0  |  LASTMOD_CHANGED: 18 (zwak signaal)  |  UNCHANGED: 733
+NEW: 2  |  REMOVED: 0  |  LASTMOD_CHANGED: 30 (zwak signaal)  |  UNCHANGED: 722
+
+## /de-at/  (+1 / -0)
+- NEW: https://plancraft.com/de-at/produktupdates/updates-im-september-2026
 
 ## /de-de/  (+1 / -0)
-- NEW: https://plancraft.com/de-de/plancraft-webinare/e-rechnung-2027-handwerksbetriebe
+- NEW: https://plancraft.com/de-de/produktupdates/updates-im-september-2026

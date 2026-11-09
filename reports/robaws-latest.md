@@ -1,17 +1,38 @@
 # Robaws — sitemap diff
 
-Bijgewerkt: 2026-11-02T14:19:05.908127+00:00
+Bijgewerkt: 2026-11-09T14:46:21.321545+00:00
 
-NEW: 2  |  REMOVED: 4  |  LASTMOD_CHANGED: 25 (zwak signaal)  |  UNCHANGED: 539
+NEW: 14  |  REMOVED: 9  |  LASTMOD_CHANGED: 274 (zwak signaal)  |  UNCHANGED: 283
 
-## /de/  (+1 / -2)
-- NEW: https://robaws.com/de/funktionen/einsatzplanung-software-plantafel
-- REMOVED: https://robaws.com/de/blog/robaws-der-deloitte-fast-50-zum-dritten-mal
-- REMOVED: https://robaws.com/de/funktionen/digitale-plantafel
+## /nl-BE/  (+13 / -5)
+- NEW: https://robaws.com/nl-BE/blog/verplichte-tijdsregistratie-2027-wat-moet-je-als-bouwbedrijf-weten
+- NEW: https://robaws.com/nl-BE/blog/wat-als-je-als-zaakvoerder-een-week-uitvalt-draait-je-bouwbedrijf-dan-gewoon-verder
+- NEW: https://robaws.com/nl-BE/klanten/bert-callens
+- NEW: https://robaws.com/nl-BE/klanten/hubaut-travaux-publics
+- NEW: https://robaws.com/nl-BE/vergelijking-robaws-vs-billit
+- NEW: https://robaws.com/nl-BE/vergelijking-robaws-vs-blox
+- NEW: https://robaws.com/nl-BE/vergelijking-robaws-vs-bouwsoft
+- NEW: https://robaws.com/nl-BE/vergelijking-robaws-vs-breex
+- NEW: https://robaws.com/nl-BE/vergelijking-robaws-vs-business-central
+- NEW: https://robaws.com/nl-BE/vergelijking-robaws-vs-odoo
+- NEW: https://robaws.com/nl-BE/vergelijking-robaws-vs-plenion
+- NEW: https://robaws.com/nl-BE/vergelijking-robaws-vs-teamleader
+- NEW: https://robaws.com/nl-BE/vergelijking-robaws-vs-vertuoza
+- REMOVED: https://robaws.com/nl-BE/403
+- REMOVED: https://robaws.com/nl-BE/bedankt-voor-jouw-sollicitatie
+- REMOVED: https://robaws.com/nl-BE/bedankt-voor-uw-bericht
+- REMOVED: https://robaws.com/nl-BE/e-mail-banner-0
+- REMOVED: https://robaws.com/nl-BE/klanten/bert-callens-elektriciteit-automatisatie
 
-## /fr/  (+1 / -1)
-- NEW: https://robaws.com/fr/clients/de-vroe-groep
-- REMOVED: https://robaws.com/fr/klanten/de-vroe-groep
+## /nl-NL/  (+0 / -2)
+- REMOVED: https://robaws.com/nl-NL/403
+- REMOVED: https://robaws.com/nl-NL/bedankt-voor-jouw-sollicitatie
 
-## /nl-NL/  (+0 / -1)
-- REMOVED: https://robaws.com/nl-NL/node/364
+## /fr/  (+1 / -0)
+- NEW: https://robaws.com/fr/clients/hubaut-travaux-publics
+
+## /de/  (+0 / -1)
+- REMOVED: https://robaws.com/de/403
+
+## /en/  (+0 / -1)
+- REMOVED: https://robaws.com/en/403
