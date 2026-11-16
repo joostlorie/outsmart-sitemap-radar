@@ -1,38 +1,23 @@
 # Robaws — sitemap diff
 
-Bijgewerkt: 2026-11-09T14:46:21.321545+00:00
+Bijgewerkt: 2026-11-16T14:21:50.063034+00:00
 
-NEW: 14  |  REMOVED: 9  |  LASTMOD_CHANGED: 274 (zwak signaal)  |  UNCHANGED: 283
+NEW: 8  |  REMOVED: 0  |  LASTMOD_CHANGED: 18 (zwak signaal)  |  UNCHANGED: 553
 
-## /nl-BE/  (+13 / -5)
-- NEW: https://robaws.com/nl-BE/blog/verplichte-tijdsregistratie-2027-wat-moet-je-als-bouwbedrijf-weten
-- NEW: https://robaws.com/nl-BE/blog/wat-als-je-als-zaakvoerder-een-week-uitvalt-draait-je-bouwbedrijf-dan-gewoon-verder
-- NEW: https://robaws.com/nl-BE/klanten/bert-callens
-- NEW: https://robaws.com/nl-BE/klanten/hubaut-travaux-publics
-- NEW: https://robaws.com/nl-BE/vergelijking-robaws-vs-billit
-- NEW: https://robaws.com/nl-BE/vergelijking-robaws-vs-blox
-- NEW: https://robaws.com/nl-BE/vergelijking-robaws-vs-bouwsoft
-- NEW: https://robaws.com/nl-BE/vergelijking-robaws-vs-breex
-- NEW: https://robaws.com/nl-BE/vergelijking-robaws-vs-business-central
-- NEW: https://robaws.com/nl-BE/vergelijking-robaws-vs-odoo
-- NEW: https://robaws.com/nl-BE/vergelijking-robaws-vs-plenion
-- NEW: https://robaws.com/nl-BE/vergelijking-robaws-vs-teamleader
-- NEW: https://robaws.com/nl-BE/vergelijking-robaws-vs-vertuoza
-- REMOVED: https://robaws.com/nl-BE/403
-- REMOVED: https://robaws.com/nl-BE/bedankt-voor-jouw-sollicitatie
-- REMOVED: https://robaws.com/nl-BE/bedankt-voor-uw-bericht
-- REMOVED: https://robaws.com/nl-BE/e-mail-banner-0
-- REMOVED: https://robaws.com/nl-BE/klanten/bert-callens-elektriciteit-automatisatie
+## /fr/  (+2 / -0)
+- NEW: https://robaws.com/fr/connectez-robaws-claude-et-chatgpt
+- NEW: https://robaws.com/fr/integrations/horus
 
-## /nl-NL/  (+0 / -2)
-- REMOVED: https://robaws.com/nl-NL/403
-- REMOVED: https://robaws.com/nl-NL/bedankt-voor-jouw-sollicitatie
+## /nl-BE/  (+2 / -0)
+- NEW: https://robaws.com/nl-BE/integraties/horus
+- NEW: https://robaws.com/nl-BE/koppel-robaws-aan-claude-en-chatgpt
 
-## /fr/  (+1 / -0)
-- NEW: https://robaws.com/fr/clients/hubaut-travaux-publics
+## /nl-NL/  (+2 / -0)
+- NEW: https://robaws.com/nl-NL/integraties/horus
+- NEW: https://robaws.com/nl-NL/koppel-robaws-aan-claude-en-chatgpt
 
-## /de/  (+0 / -1)
-- REMOVED: https://robaws.com/de/403
+## /de/  (+1 / -0)
+- NEW: https://robaws.com/de/robaws-mit-claude-und-chatgpt-verbinden
 
-## /en/  (+0 / -1)
-- REMOVED: https://robaws.com/en/403
+## /en/  (+1 / -0)
+- NEW: https://robaws.com/en/connect-robaws-claude-and-chatgpt
